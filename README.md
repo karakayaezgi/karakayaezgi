@@ -8,7 +8,6 @@ Hi 👋! My name is Ezgi, I am a Computer Engineer. I am developing as a Fronten
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=karakayaezgi&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=karakayaezgi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 # 💻 Tech Stack:
@@ -18,3 +17,5 @@ Hi 👋! My name is Ezgi, I am a Computer Engineer. I am developing as a Fronten
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ezgi-karakaya-4546a125a/) 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![](https://visitcount.itsvg.in/api?id=karakayaezgi&icon=0&color=0)](https://visitcount.itsvg.in)
