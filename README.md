@@ -1,4 +1,4 @@
-
+Hi 👋! My name is Ezgi, I am a Computer Engineer. I am developing as a Frontend Developer.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ezgi-karakaya) 
 
